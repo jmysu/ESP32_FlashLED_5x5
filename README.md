@@ -2,11 +2,10 @@
 A simple 5x5 matrix w/ FlashLED
 <br><br>
 
-<img src="picture/BPIbitFlashLED0605.gif" width=320/> &nbsp;&nbsp;&nbsp;  
+<img src="picture/BPIbitFlashLED0605.gif"/> &nbsp;&nbsp;&nbsp;  
 <br><br>
 
 
 ## References
-  - [Arduino Telegram Bot Library](https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot) Telegrambot code at Github.
-  - [ESP32Cam](https://github.com/espressif/esp32-camera) Espressif ESP32Cam code.
-  - [Robot01 telegram tutor](https://robotzero.one/telegram-bot-esp32cam/) Running a Telegram Photo Bot on the ESP32-CAM.
+  - [Arduino FastLED](https://github.com/FastLED/FastLED) Arduino FastLED library code at Github.
+  - [BPIbit wiki](https://github.com/junhuanchen/BPI-BIT-Arduino/wiki) BPIbit wiki (An microbit like ESP32 board).
